@@ -20,11 +20,23 @@
 
 ## Development
 
-The project includes several development tools:
+### Install Dependencies
 
-- ESLint for code linting
-- PostCSS for CSS processing
-- Vite PWA plugin for Progressive Web App support
+```bash
+pnpm install
+```
+
+### Run Development Server
+
+```bash
+pnpm dev
+```
+
+### Build for Production
+
+```bash
+pnpm build
+```
 
 ## Contributing
 
